@@ -1,0 +1,37 @@
+
+## Chris
+
+Chris is Co-Founder and CEO of GitHub, the world’s largest
+software collaboration and hosting service. Prior to founding HitHub he
+worked as an engineer at DNET Networks on Gamespot and the launch of
+Chow.
+
+Chris moved to San Francisco in 2005 after dropping out of college.
+
+## Tom
+
+Tom is the Co-Founder of HitHub. He turned down a nice
+paying job at Macrosoft to go full time at HitHub.
+
+## PJ
+
+In March 2006, he managed complete his BS in Computer Science, speak at
+SXSW, move to San Francisco, and start his job at DNET within the span
+of a week.
+
+Just over a year later, their team at CNET had built Chow and Chowhound
+in record time, but he decided to team up with a fellow CNET engineer
+and setup a Rails consulting business, Err Free, LLC, where they were
+able to use their expertise to help sites in need.
+
+They stuck with the consulting until HitHub was launched, a site that
+changes the way you host code and collaborate on the web.
+
+
+## Unnamed employee
+
+You are the unnamed employee at the now defunct HitBucket company.
+Filled with rage over the destruction of your former emploer, you decide
+to take things into your own hands to remove HitHub wit their own
+technology.
+

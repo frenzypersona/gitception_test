@@ -1,17 +1,2 @@
 
-In the year 2013, HitHub, a popular social coding platform has
-successfully created a new technology that allows a Git repository
-within a Git repository.
-
-Developers would think that they are coding on the Master branch in
-their own private repository while the HitHub staff will infiltrate
-their Git repository for corporate espionage.
-
-This has caused severe destruction of many companies when their products
-were suddenly pre-empted by HitHub. To make matters worse, their own
-code was missing - effectively rendering any form of litigation useless.
-
-That is until 2020. When an unnamed employee from the now defunct
-company HitBucket decides to take down HitHub once and for all - using
-their own technology against themselves...
-
+Pikachu strikes back!!
